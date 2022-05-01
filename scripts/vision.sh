@@ -1,0 +1,1 @@
+gcloud ml vision detect-text-pdf gs://bucket_for_applicant_selector/cvs/0000.pdf  gs://bucket_for_applicant_selector/cv_txt/
